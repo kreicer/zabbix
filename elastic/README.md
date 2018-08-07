@@ -5,8 +5,8 @@ Templates for monitoring Elastic Search cluster and nodes, .conf file for zabbix
 This script https://github.com/adel-s/zabbix/tree/master/ElasticSearch on each node.
 
 # Installation
-- Put .conf file into your zabbix conf directory
-- Improt zabbix templates to your zabbix server
+- Put .conf file into your zabbix conf directory on node(s)
+- Import zabbix templates to your zabbix server
 - Add template "Elastic Search - Health and Cluster" on master node
 - Add template "Elastic Search - Node" on each node in cluster (include master node)
 - Have fun
