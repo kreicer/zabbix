@@ -11,5 +11,5 @@ This script https://github.com/adel-s/zabbix/tree/master/ElasticSearch on each n
 - Add template "Elastic Search - Node" on each node in cluster (include master node)
 - Have fun
 
-# Feddback
+# Feedback
 Find the way make this template better? Feel free to share this info with me by mail or in "Issues" section
