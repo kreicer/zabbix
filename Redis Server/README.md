@@ -5,7 +5,7 @@ Script forked from https://github.com/pavelnemirovsky/zabbix-redis-template/ and
 # Installation
 - Put .conf file into your zabbix conf directory on node(s)
 - Put .sh file into your zabbix/scripts directory on node(s)
-- Import zabbix templates to your zabbix server
+- Import zabbix template(s) to your zabbix server
 - Add template "Redis Server" on node(s)
 - Configure template with your needs
 - Have fun
